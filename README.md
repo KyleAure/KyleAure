@@ -1,6 +1,6 @@
 ### Kyle Aure (He/Him)
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=KyleAure&show_icons=true&theme=vue&hide_title=true&count_private=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=KyleAure&show_icons=true&theme=material-palenight&hide_title=true&count_private=true" />
 
 - 🎓 Graduate from [Winona State University](https://www.winona.edu/)
   - Bachelors Degree in Computer Science
